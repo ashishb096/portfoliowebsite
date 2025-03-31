@@ -14,7 +14,7 @@ function AboutCard() {
             <br />
             I am an Infrastructure Support Engineer with 2.7+ years of experience in cloud technologies, automation, and performance optimization.
             <br />
-            I have completed Bachelors of Computer Application () at IMS UC
+            I have completed Bachelors of Computer Application at IMS UC
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
