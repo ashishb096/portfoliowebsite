@@ -20,7 +20,7 @@ GitHub Repository: [ashishb096/portfoliowebsite](https://github.com/ashishb096/p
 - 🌍 **Deployed on Vercel**: Fast and scalable deployment
 - 🔗 **Social Media Links**: Connect with me via GitHub, LinkedIn, etc.
 - 📜 **Resume Download**: Option to download my resume
-- 📫 **Contact Form**: Users can send messages directly
+
 
 ## 🛠️ Tech Stack
 
