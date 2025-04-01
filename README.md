@@ -81,7 +81,7 @@ If you’d like to contribute, fork the repo and submit a pull request!
 ## 📬 Contact
 Feel free to reach out via:
 - GitHub: [@ashishb096](https://github.com/ashishb096)
-- LinkedIn: [Your LinkedIn Profile](#)
+- **LinkedIn:** [ashish-bisht-26aa7b192](https://www.linkedin.com/in/ashish-bisht-26aa7b19)
 
 ---
 ### 🔥 Show Some Love
