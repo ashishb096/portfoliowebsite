@@ -1,70 +1,69 @@
-# Getting Started with Create React App
+# Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![React Portfolio](https://img.shields.io/badge/Made%20With-React-blue.svg) ![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black.svg)
 
-## Available Scripts
+Welcome to my personal portfolio website built using **React.js**! This project showcases my skills, experience, and projects in the field of **DevOps and Infrastructure Support Engineering**.
 
-In the project directory, you can run:
+## 🌐 Live Demo
 
-### `npm start`
+You can view the live website here: [Portfolio Website](https://portfoliowebsite-ebon-eta.vercel.app/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📂 Repository
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+GitHub Repository: [ashishb096/portfoliowebsite](https://github.com/ashishb096/portfoliowebsite)
 
-### `npm test`
+## 🚀 Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 🖥️ **Fully Responsive**: Optimized for all screen sizes (mobile, tablet, desktop)
+- 🎨 **Modern UI/UX**: Designed with a sleek and professional look
+- 🔧 **React.js**: Built using modern React.js practices (functional components, hooks, etc.)
+- 🌍 **Deployed on Vercel**: Fast and scalable deployment
+- 🔗 **Social Media Links**: Connect with me via GitHub, LinkedIn, etc.
+- 📜 **Resume Download**: Option to download my resume
+- 📫 **Contact Form**: Users can send messages directly
 
-### `npm run build`
+## 🛠️ Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Frontend**: React.js, HTML, CSS, JavaScript
+- **Deployment**: Vercel
+- **Version Control**: Git & GitHub
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🏗️ Setup & Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ashishb096/portfoliowebsite.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd portfoliowebsite
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   npm start
+   ```
 
-### `npm run eject`
+## 📦 Deployment
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This project is deployed on Vercel. To deploy manually, you can:
+1. Push changes to GitHub
+2. Connect the GitHub repository with Vercel
+3. Vercel will handle the deployment automatically
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🔗 Connect with Me
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **GitHub**: [github.com/ashishb096](https://github.com/ashishb096)
+- **LinkedIn**: [linkedin.com/in/ashishbisht](#)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+### 📜 License
+This project is open-source and available under the MIT License.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you like this project, feel free to ⭐ the repo and share your feedback! 😊
