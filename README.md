@@ -57,7 +57,7 @@ This project is deployed on Vercel. To deploy manually, you can:
 ## 🔗 Connect with Me
 
 - **GitHub**: [github.com/ashishb096](https://github.com/ashishb096)
-- **LinkedIn**: [linkedin.com/in/ashishbisht](#)
+- **LinkedIn:** [ashish-bisht-26aa7b192](https://www.linkedin.com/in/ashish-bisht-26aa7b19
 
 ---
 
