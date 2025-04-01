@@ -9,9 +9,8 @@ RUN npm install
 
 # Copy source code and build the app
 COPY . .
-RUN npm run build
 
-# Expose port 80
+# Expose port 3000
 EXPOSE 3000
 
 # Start Nginx
